@@ -27,7 +27,7 @@
 https://github.com/vaibhavdhok/Imagify/assets/31030257/014f3a2b-8737-40bd-8593-9883cb1ceeee
 
 ## 🙏 Credits
-This project was created by [`Vaibhav Dhok`] as a learning exercise in web development.
+This project was created by[`Vaibhav Dhok`]as a learning exercise in web development.
 
 Feel free to explore, modify, and enhance this project further!
 

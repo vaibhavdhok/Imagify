@@ -97,3 +97,7 @@ footer {
     font-size: small;
     color: #3a3838;
 }
+
+footer:hover {
+    color: #a1a1a1;
+}

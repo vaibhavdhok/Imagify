@@ -33,14 +33,14 @@ form {
 }
 
 form input {
-flex: 1;
-height: 100%;
-border: 0;
-outline: 0;
-background: transparent;
-color: #fff;
-font-size: 18px;
-padding: 0 30px;
+    flex: 1;
+    height: 100%;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    color: #fff;
+    font-size: 18px;
+    padding: 0 30px;
 }
 
 form button {
@@ -100,4 +100,10 @@ footer {
 
 footer:hover {
     color: #a1a1a1;
+}
+
+.fa {
+    font-size: 14px;
+    cursor: pointer;
+    text-decoration: none;
 }
